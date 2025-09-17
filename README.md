@@ -73,3 +73,37 @@ print(saludo)
 
 # Claramente 
 ![Perros](https://www.hola.com/mascotas/20190423141017/razas-de-perro-raras/)
+
+Enlazo una nota al pie [^1]
+Enlazo una nota al pie [^nota]
+
+[^1] Esta es una nota al pie
+[^nota] Esta es otra nota al pie 
+
+| Alieneacion izq | Alineacion medio | Alineacion derch |
+| :--- | :---: | ---: |
+| Dato1 | Dato2 | Dato3 |
+| Dato4 | Dato5 | Dato6 |
+<details>
+  <summary>Este es el resumen de la seccion desplegable
+    
+  </summary>
+    Un texto es una composición de signos codificados en un sistema de escritura que forma una unidad de sentido. También es una composición de caracteres imprimibles (con grafema) generados por un algoritmo de cifrado que, aunque no tienen sentido para cualquier persona, sí puede ser descifrado por su destinatario original. En otras palabras, un texto es un entramado de signos con una intención comunicativa que adquiere sentido en determinado contexto.
+</details>
+<details>
+  <summary>
+    ¿Cual es la sintaxis Python para imprimir por pantalla?
+
+  </summary>
+
+```python
+print( 'texto' )
+</details>
+
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+</details>
